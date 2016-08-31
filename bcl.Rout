@@ -1,0 +1,3 @@
+*** Further command line arguments ('--vanilla ') disregarded
+*** (maybe use 'run --vanilla ' from *inside* valgrind --tool=memcheck --leak-check=full --log-file=bcl.valgrind.log)
+
